@@ -1,5 +1,1 @@
-How to use?
-$ pip install -r requirements.txt
-Edit the .env file
-Change it to your server ID
-Change token with your Discord account token which has admin privilleges on the specific server 
+S E M I H Z Y - D I S C O R D     U R L     S P A M M E R
